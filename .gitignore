@@ -1,0 +1,5 @@
+/.vscode/
+/Docker/tests/timestamp.txt
+/WindowsSandbox/Archive/
+/Docker/Logs/
+.DS_Store
